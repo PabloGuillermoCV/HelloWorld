@@ -1,7 +1,7 @@
 public class HelloWorld{
 	
 	public static void main(String args[]){
-		system.out.println("Probando git");
+		system.out.println("Probando git con Tomas");
 	}
 
 }
